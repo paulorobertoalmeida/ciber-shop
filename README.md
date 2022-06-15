@@ -71,3 +71,4 @@ You have the following indications from the frontend manager:
 
 - It is forbidden to copy the code, since this way you don't learn anything. Furthermore, as you can see, the second release of sprint 5 is a mini-level test with the mentor, in which you will have to demonstrate live that you have acquired the javascript concepts. Don't worry, if you work on the releases you won't have any problems.# ciber-shop
 # ciber-shop
+# ciber-shop
