@@ -199,7 +199,8 @@ const addToCart = (id) => {
             cart[itemToSum].quantity++;
         }
     }
-
+    applyPromotionsCart();
+    printCart();
 }
 
 
@@ -228,8 +229,8 @@ const removeFromCart = (id) => {
 const open_modal = () => printCart();
 
 //console.log("Open Modal")
-console.log(buy());
-console.log(cartList);
-console.log(removeFromCart());
-printCart();
-applyPromotionsCart();
+//console.log(buy());
+//console.log(cartList);
+//console.log(removeFromCart());
+//printCart();
+console.log(applyPromotionsCart());
